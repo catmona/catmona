@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Interactive Fiction projects<br>🌱 I’m currently learning NextJS<br>💬 Ask me about LOOM<br>⚡ Did you know that 52! is a really, really big number?
+👷‍♀️ I'm a web developer who wants to learn new things<br>🔭 I’m currently working on Interactive Fiction projects<br>🌱 I’m currently learning NextJS<br>💬 Ask me about LOOM<br>⚡ Did you know that 52! is a really, really big number?
 
 
 # 💻 Tech Stack:
